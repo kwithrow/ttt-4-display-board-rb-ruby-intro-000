@@ -8,4 +8,4 @@ def display_board
   puts "-----------"
   puts " #{board[7]} | #{board[8]} | #{board[9]}"
 end
-display_board (board)
+display_board
